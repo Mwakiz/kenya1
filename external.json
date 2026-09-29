@@ -69,7 +69,7 @@
     {
       "date": "Yesterday",
       "categories": {
-        "1 Draw": [ { "country": "spain", "teamA": "Getafe", "teamB": "Alaves", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" } ],
+        "1 Draw": [ { "teamA": "Getafe", "teamB": "Alaves", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" } ],
         "2 Draws": [ 
             { "country": "italy", "teamA": "Verona", "teamB": "Empoli", "prediction": "Draw", "score": "0-0", "odds": "3.25", "result": "WON" },
             { "country": "france", "teamA": "Lens", "teamB": "Lille", "prediction": "Draw", "score": "1-1", "odds": "3.30", "result": "WON" }
